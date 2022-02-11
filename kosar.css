@@ -3,4 +3,43 @@
 	top:-39px;
 	left:580px;
 	width:120px;
+	opacity: 60%;
+	background-color: rgb(255, 165, 0);
+	color: white;
+	margin: -35px;
+	padding: 15px;
+	
 }
+
+#tovabb:hover
+{
+	background-color: black;
+}
+
+.tartalom
+{
+	width: 600px;
+	text-align: center;
+	margin-top: 0px;
+}
+
+table
+{
+	width: 500px;
+}
+tr, td
+{
+width: 75px;
+text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+h1
+{
+	color: lightgray;
+}
+
